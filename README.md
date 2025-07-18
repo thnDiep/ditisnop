@@ -76,4 +76,4 @@ A daily job runs automatically at 3:00 AM, scraping and uploading updates. You c
 
 # Screenshot of Playground answer
 
-![Screenshot of Playground answer](../screenshot-of-playground-answer.jpg)
+![Screenshot of Playground answer](./screenshot-of-playground-answer.jpg)
