@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+python-slugify
+html_to_markdown
+openai
+tqdm
